@@ -1,2 +1,2 @@
-# Checkers
-"In English, you can say: 'A university project that requires recreating the functionality of checkers without the use of external libraries, focusing on the use of a data structure based on lists.'"
+Here is the assignment given by the professor.
+[Progetto laboratorio PEL 2022.pdf](https://github.com/nicopiri/Checkers/files/12672484/Progetto.laboratorio.PEL.2022.pdf)
